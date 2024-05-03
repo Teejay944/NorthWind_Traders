@@ -64,7 +64,7 @@ was used to solve the business questions below
   shipped date.
 # DATA MODELLING
 Tables were automatically joined by creating relationships with them, PowerBI does this intelligently
-
+# DATA VISUALISATION
 I built a top-level KPI dashboard for the executive 
 team. Its purpose should be to allow them to quickly understand the company's performance in 
 key areas, including:
