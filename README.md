@@ -62,6 +62,22 @@ was used to solve the business questions below
   4. Show the trend in sales over time.
   5. Calculate the average time it takes to process an order from the order date to the
   shipped date.
+# DATA MODELLING
+Tables were automatically joined by creating relationships with them, PowerBI does this intelligently
+
+I built a top-level KPI dashboard for the executive 
+team. Its purpose should be to allow them to quickly understand the company's performance in 
+key areas, including:
+o Sales trends
+o Product performance
+o Key customers
+o Shipping Cost
+
+Sales Page
+Product Page and then
+Insight Page
+
+
 
 
 
